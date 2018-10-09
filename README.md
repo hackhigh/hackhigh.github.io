@@ -1,6 +1,6 @@
 # Hack High
 
-Hack High, is India's first worldwide high school hackathon. In India, there are very less hackathons, especially for High School students. Hack High, provides a great opportunity for young developers sitting beside us! And also, High High is not only for Indians, it is also available for International students!
+Hack High, is India's first Open Surce hackathon for high school students. In India, there are very less hackathons, especially for High School students. Hack High, provides a great opportunity for young developers sitting beside us! And also, High High is not only for Indians, it is also available for International students!
 
 # FAQ'S
 What is a Hackathon?
